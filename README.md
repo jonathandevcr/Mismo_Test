@@ -1,3 +1,3 @@
 # mismoTest
-# Just load the mismoTest_spec.js in the Cypress tool and execute it
+# To execute it run the command: rpm install 
 # No more actions required to run this automation test
